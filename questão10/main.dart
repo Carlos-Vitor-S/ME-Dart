@@ -76,7 +76,7 @@ void main() {
     }
   }
 
-  //Metodos
+  //Metodos dos candidatos
   candidato.calcularMediaHomensExperiencia(
       idadeMediaHomensExp, totalCandidatosM);
   candidato.calcularPercentualHomensVelhos(
